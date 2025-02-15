@@ -7,10 +7,9 @@
 ```
 ├── German Lemmantization
 │   ├── data                       <- the folder with all data files.
-│   ├── lingq_cleaning.ipynb       <- Jupyter Notebook with analysis
-│   ├── data_training.ipynb        <- Jupyter Notebook with analysis
-│   ├── data_wrangling.ipynb       <- Jupyter Notebook with analysis
-│   ├── schloss-gripsholm.ipynb    <- Jupyter Notebook with analysis
+│   ├── data_training.ipynb        <- First steps with dwds_korpora database of lemmas and words of German language
+│   ├── data_wrangling.ipynb       <- First try in lemmantization.
+│   ├── schloss-gripsholm.ipynb    <- Simple analysis of word frequency in text.
 │
 │
 ├── Sales Data Analysis
