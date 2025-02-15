@@ -1,7 +1,7 @@
 # 92 Data Science Projects
 
 - [Sales Data Analysis](https://github.com/roanna/82.05-StrataScratch/blob/master/Sales%20Data%20Analysis/Sales%20Data%20Analysis.ipynb)
-- [WIP German Language Lemmantization]()
+- [WIP German Language Lemmantization](https://github.com/roanna/92-Data-Science-Projects/blob/master/German%20Lemmantization/data_training.ipynb)
 
 ### Folder Structure
 ```
